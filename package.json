@@ -1,0 +1,11 @@
+{
+  "name": "express-generator",
+  "version": "1.0.0",
+  "description": "learning about express generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogendra",
+  "license": "ISC"
+}
