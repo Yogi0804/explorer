@@ -4,8 +4,12 @@
   "description": "learning about express generator",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
   },
   "author": "Yogendra",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^1.0.4"
+  }
 }
